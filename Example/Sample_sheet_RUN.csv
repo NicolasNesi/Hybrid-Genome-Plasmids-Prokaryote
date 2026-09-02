@@ -1,0 +1,5 @@
+flow_cell_id,kit,experiment_id,barcode,alias
+1,EXP-NBD196,Dorado,barcode01,blanc-WGS
+1,EXP-NBD196,Dorado,barcode02,Sample1-Info1-Info2
+1,EXP-NBD196,Dorado,barcode03,Sample2-Info1-Info2
+1,EXP-NBD196,Dorado,barcode04,Sample3-Info1-Info2
