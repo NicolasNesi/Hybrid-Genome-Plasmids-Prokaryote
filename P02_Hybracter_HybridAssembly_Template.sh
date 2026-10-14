@@ -182,9 +182,9 @@ mv out/* "${FOLDER}/Staramr/${RUN}"
 # Antimicrobial Resistance Gene Finder
 # ---------------------------------
 conda deactivate
-conda activate AMRFinderPlus_env
+conda activate bakta_env
 # include:
-# amrfinderplus=3.12.8
+# amrfinderplus=4.2.7
 
 echo "Research of AMR genes in plasmids"
 
